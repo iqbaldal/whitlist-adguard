@@ -1,4 +1,5 @@
 @@||0.client-channel.google.com^$important
+@@||*.shopee.co.id^$important
 @@||1drv.com^$important
 @@||2.android.pool.ntp.org^$important
 @@||akamaihd.net^$important
