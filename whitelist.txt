@@ -1,5 +1,7 @@
 @@||0.client-channel.google.com^$important
-@@||*.shopee.co.id^$important
+@@||api.shopee.co.id^$important
+@@||live.shopee.co.id^$important
+@@||mall.shopee.co.id^$important
 @@||1drv.com^$important
 @@||2.android.pool.ntp.org^$important
 @@||akamaihd.net^$important
